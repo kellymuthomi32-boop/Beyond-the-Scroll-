@@ -1,0 +1,6 @@
+{
+  "name": "Beyond the Scroll — Pro Discovery Platform",
+  "description": "Cinematic scientific discoveries in biology, deep space, extreme life, and planetary wonders. Features interactive anatomy, narrated audio, research papers, and curiosity quiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
